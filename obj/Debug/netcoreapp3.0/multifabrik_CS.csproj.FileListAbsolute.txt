@@ -1,0 +1,11 @@
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\bin\Debug\netcoreapp3.0\multifabrik_CS.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\bin\Debug\netcoreapp3.0\multifabrik_CS.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\bin\Debug\netcoreapp3.0\multifabrik_CS.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\bin\Debug\netcoreapp3.0\multifabrik_CS.runtimeconfig.dev.json
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\bin\Debug\netcoreapp3.0\multifabrik_CS.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\bin\Debug\netcoreapp3.0\multifabrik_CS.pdb
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\obj\Debug\netcoreapp3.0\multifabrik_CS.csprojAssemblyReference.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\obj\Debug\netcoreapp3.0\multifabrik_CS.AssemblyInfoInputs.cache
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\obj\Debug\netcoreapp3.0\multifabrik_CS.AssemblyInfo.cs
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\obj\Debug\netcoreapp3.0\multifabrik_CS.dll
+c:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Multifabrik_cs\multifabrik_CS\obj\Debug\netcoreapp3.0\multifabrik_CS.pdb
